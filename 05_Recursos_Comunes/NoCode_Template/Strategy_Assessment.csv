@@ -1,0 +1,2 @@
+caso_id,mercado_categoria,oceano_color,diferenciador,problema_tipo,tecnica_recomendada,latencia_max_s,costo_max,alucinacion_max_pct,owner,cadencia_revision
+example-001,Aplicación,Azul,Datos,Mixto,RAG,10,0.01,10,juan.perez@empresa.com,quincenal
