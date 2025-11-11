@@ -1,0 +1,21 @@
+# Changelog
+
+## v0.1.0 — 2025-11-11
+### Added
+- Estructura inicial del workshop (Fundamentos, Sesiones 1–4, Recursos).
+- Callouts coloreados con sintaxis dual (GitBook hints y GitHub GFM).
+- Fundamentos con estrategia (AI Strategy Compass) y compliance temprano.
+- Sesiones 2–4 con avisos de hardware, chunking, métricas y ROI/baseline.
+- FAQ y Compliance checklist iniciales.
+
+### Changed
+- README con callout informativo de nivel superior.
+
+### Decisions
+- Máximo 4 callouts por sección para mantener legibilidad.
+- “Danger” reservado para riesgos reales (PII, legales, métricas críticas).
+
+### Next
+- Glosario ampliado (20–100 recursos).
+- Guía ROI detallada en Sesión 4 (paso a paso con la app).
+- Métricas RAG avanzadas (precision, recall, faithfulness).
