@@ -1,5 +1,8 @@
 # llm-llama
 
+> [!NOTE]
+> Taller y guía práctica para construir tu propio stack de IA con Llama (open‑source) orientado a MiPyMEs y startups LATAM. Documentación con callouts GitBook y GitHub para mejor visibilidad.
+
 Taller y guía práctica para construir tu propio stack de IA con Llama (open‑source) orientado a MiPyMEs y startups LATAM. Reúne sesiones, playbooks, plantillas No‑Code, FAQ ampliado y materiales listos para producción.
 
 Componentes clave
